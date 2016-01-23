@@ -24,8 +24,7 @@ maxDraws(numOfPairs)
 
 //Copy and paste your code:
 
-func factor(var n: Int) -> Int
-{
+func factor(var n: Int) -> Int {
     var number = n - 1
     
     for _ in 1..<n {
@@ -43,6 +42,9 @@ func factor(var n: Int) -> Int
 //Question 3: https://www.hackerrank.com/challenges/connecting-towns
 
 //Copy and paste your code:
+func traveling(var n: Int) -> Int {
+
+}
 
 //What is the big O runtime of your code?:
 
